@@ -1,0 +1,11 @@
+#textWindow{
+	overflow-y: scroll; 
+	height: 400px
+}
+
+#inputArea{
+	max-width: 99%;
+}
+#error{
+	color: red;
+}
